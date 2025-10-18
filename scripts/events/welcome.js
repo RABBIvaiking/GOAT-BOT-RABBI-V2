@@ -16,7 +16,7 @@ module.exports = {
       session3: "afternoon",
       session4: "evening",
       defaultWelcomeMessage:
-        "__আসসালামু আলাইকুম__\n═══════════════\n__Welcome ➤ {userName}__\n\n_আমাদের {threadName}_\n_এর পক্ষ থেকে আপনাকে_\n       __!! স্বাগতম !!__\n__'আপনি এই__\n        __গ্রুপের {memberCount} নাম্বার মেমবার___!!\n\n___Added By : {inviterName}___\n\nBot Owner : Mohammad Akash",
+        "__আসসালামু আলাইকুম__\n═══════════════\n__Welcome ➤ {userName}__\n\n_আমাদের {threadName}_\n_এর পক্ষ থেকে আপনাকে_\n       __!! স্বাগতম !!__\n__'আপনি এই__\n        __গ্রুপের {memberCount} নাম্বার মেমবার___!!\n\n___Added By : {inviterName}___\n\nBot Owner : ☞︎︎︎𝐑𝐀𝐁𝐁𝐢⍟𝐕𝐀𝐈☜︎︎.",
       botAddedMessage:
         "━━━━━━━━━━━━━━━━━━━━━\n🤖 ধন্যবাদ আমাকে গ্রুপে অ্যাড করার জন্য 💖\n\n⚙️ Bot Prefix :  /\n📜 সব কমান্ড দেখতে লিখুন :  /help\n\nচলুন একসাথে এই গ্রুপটা আরও মজার করে তুলি! 😄\n━━━━━━━━━━━━━━━━━━━━━"
     }
